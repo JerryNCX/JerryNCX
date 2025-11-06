@@ -1,5 +1,5 @@
 # 💫 About Me:
-Gay Dude in Software Engineering<br>working on full-stack website<br>starting Computer vision, machine learning
+A dude studying in Software Engineering<br>working on full-stack website<br>starting Computer vision, machine learning
 
 
 ## 🌐 Socials:
